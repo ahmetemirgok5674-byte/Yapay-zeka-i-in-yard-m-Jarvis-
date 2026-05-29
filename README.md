@@ -1,6 +1,7 @@
 # Yapay-zeka-i-in-yard-m-Jarvis-
 Ev yapımı yapay zeka için yardım 
-kodun gelistirilmesi gerekiyor bu yuzden yardim istiyoruz. kod:import os
+kodun gelistirilmesi gerekiyor bu yuzden yardim istiyoruz. kod:
+import os
 import sys
 import time
 import requests
